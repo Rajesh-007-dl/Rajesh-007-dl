@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I’m Rajesh Dinda</h1>
+<h1 align="center">Hi 👋, I’m Rajesh </h1>
 <h4 align="center">Gen AI & Agentic AI Enthusiast  
 
 ---
