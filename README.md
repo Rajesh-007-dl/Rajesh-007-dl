@@ -37,11 +37,11 @@
   
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Rajesh-007-dl&theme=vision-friendly-dark&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-007-dl&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</p>
+## 📊 GitHub Stats  
+
+<img src="https://github-readme-stats.vercel.app/api?username=Arghadeepkar85&show_icons=true&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghadeepkar85&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghadeepkar85&layout=compact&theme=gruvbox&hide_border=true" />>
 
 ---
