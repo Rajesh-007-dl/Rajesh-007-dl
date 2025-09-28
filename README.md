@@ -40,8 +40,8 @@
 
 ## 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arghadeepkar85&show_icons=true&theme=highcontrast&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arghadeepkar85&theme=highcontrast&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghadeepkar85&layout=compact&theme=gruvbox&hide_border=true" />>
+<img src="https://github-readme-stats.vercel.app/api?username=Rajesh-007-dl&show_icons=true&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh-007-dl&theme=highcontrast&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh-007-dl&layout=compact&theme=gruvbox&hide_border=true" />>
 
 ---
